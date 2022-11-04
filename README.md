@@ -64,8 +64,8 @@ lrad_CMFD_V0106_B-01_01mo_010deg_197901-201812.nc
 注意：本地打开的话，请在各个 Demo 的文件夹下打开，不要再根目录下打开，以免出现路径错误。
 ```
 
-| [演示一](https://pudding.nousbuild.com/earth3d-radiation-threejs/earth3d-demo1/) | [演示二](https://pudding.nousbuild.com/earth3d-radiation-threejs/earth3d-demo2/) |
+| [演示一](https://buildingdata.github.io/earth3d-radiation-threejs/earth3d-demo1/) | [演示二](https://buildingdata.github.io/earth3d-radiation-threejs/earth3d-demo2/) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <a href="https://pudding.nousbuild.com/earth3d-radiation-threejs/earth3d-demo1/"><img src="demo1.jpg"></a> | <a href="https://pudding.nousbuild.com/earth3d-radiation-threejs/earth3d-demo2/"><img src="demo2.jpg"></a> |
-| **[演示三](https://pudding.nousbuild.com/earth3d-radiation-threejs/earth3d-demo3/)** | **[演示四](https://pudding.nousbuild.com/earth3d-radiation-threejs/earth3d-demo4/)** |
-| <a href="https://pudding.nousbuild.com/earth3d-radiation-threejs/earth3d-demo3/"><img src="demo3.jpg"></a> | <a href="https://pudding.nousbuild.com/earth3d-radiation-threejs/earth3d-demo4/"><img src="demo4.jpg"></a> |
+| <a href="https://buildingdata.github.io/earth3d-radiation-threejs/earth3d-demo1/"><img src="demo1.jpg"></a> | <a href="https://buildingdata.github.io/earth3d-radiation-threejs/earth3d-demo2/"><img src="demo2.jpg"></a> |
+| **[演示三](https://buildingdata.github.io/earth3d-radiation-threejs/earth3d-demo3/)** | **[演示四](https://buildingdata.github.io/earth3d-radiation-threejs/earth3d-demo4/)** |
+| <a href="https://buildingdata.github.io/earth3d-radiation-threejs/earth3d-demo3/"><img src="demo3.jpg"></a> | <a href="https:/buildingdata.github.io/earth3d-radiation-threejs/earth3d-demo4/"><img src="demo4.jpg"></a> |
